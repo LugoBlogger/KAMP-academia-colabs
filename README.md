@@ -1,10 +1,10 @@
-# KAMP-academia-colabs
+# KAMP-academia-colabs (deepscience.id)
 
 ## Foreword
 
-After several long discussion in our online group, we found that by collaborating our mind to solve the real world problem in Indonesia is better than by working in solitude. We believe by combining our same spirit in science, we can make a small breakthrough in science faster, reliable, and marketable (in a sense of academia community). We also seek an opportunity to develop basic science in Indonesia since most of Indonesian people lost their hope to develop basic science because the basic needs of sufficient funding is lower than expected. Self-sufficient funding is one of our main goals to make this group can work as we hope.
+After several long discussion in our online group, we found that by collaborating our mind to solve the real world problem in Indonesia is better than by working in solitude. We believe by combining our same spirit in science, we can make a small breakthrough in science faster, reliable, and marketable (in a sense of academia community). We also believe in every Indonesian scientists, they want that their thought, ideas, and works can be delivered to wide audience, especially the group that underestimate the power of science. 
 
-We tried to be useful both in industrial and academic institutional. Most of our members may work part-time contributor.
+Better communication is the key to deliver our message such that our reseach can be rippen by everyone.
 
 Right now, we limited our scope to discuss the problem in physics, mathematics, and computer science. For further development, we may open to merge to another branch of sciences.
 
@@ -71,4 +71,6 @@ KAMP-academia-colabs
 
 1. Create a podcast or summary to your research such that it is reachable both for expert and non-expert in your subject.
 
-2. (under development and discussion)
+2. Designing `deepscience.id` layout
+
+3. (under development and discussion)
